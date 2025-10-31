@@ -28,6 +28,7 @@ set PGDATABASE=school
 set PGUSER=postgres
 set PGPASSWORD=your_password
 
+yt video link:https://youtu.be/gsA8DuoumJ4
 
 python app.py demo
 
