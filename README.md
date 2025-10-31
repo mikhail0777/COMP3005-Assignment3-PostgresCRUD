@@ -1,3 +1,4 @@
+YT link:https://youtu.be/gsA8DuoumJ4
 
 # PostgreSQL CRUD Assignment — Psycopg v3 (Windows-friendly)
 
@@ -5,7 +6,7 @@
 
 ```cmd
 python -m venv .venv
-.\.venv\Scriptsctivate.bat
+.\.venv\Scripts ctivate.bat
 pip install -r requirements.txt
 ```
 
